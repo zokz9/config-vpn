@@ -1,3 +1,2 @@
 vless://5da29082-48ec-4376-9564-9d377c4abc64@31.57.29.19:443?type=xhttp&encryption=none&path=%2F&host=ural-reks.ru&mode=auto&security=reality&pbk=Z8caVzBzapGqp7ZhoWGfgfxOkiZUNu88JLXj8O8fcH4&fp=random&sni=ural-reks.ru&sid=9c&spx=%2F#🇱🇻%20VPN
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#🇩🇪%20VPN
-trojan://Enh7rTiDECZilyq8d5Lhzw@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸%20VPN
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.39.30:443?mode=gun&security=none&encryption=none&type=grpc#🇩🇪%20VPN
